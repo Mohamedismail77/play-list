@@ -3,7 +3,7 @@
 
 	{
 		"name":"Mware Kids",
-		"info":"Children love stories. It’s true!And every child enjoys it for different reasons – be it travelling to magical worlds, learning new concepts, going on adventures, etc.With stories, the possibilities are truly limitless — your child can join Tintin as he travels the world, solves mysteries and nabs crooks; your child can study at Hogwarts and learn about life through the magical world of Harry Potter; your child can go back in time and become an active participant at Akbar’s court.",
+		"info":"Children love stories. It’s true!And every child enjoys it for different reasons – be it travelling to magical worlds, learning new concepts, going on adventures, etc.With stories.",
 		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_kids.jpg",
 		"starting_time":"20181130100000 +0200",
 		"stop_time":"20181130120000 +0200",
@@ -22,27 +22,12 @@
 			{
 				"episode_num":3,
 				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
-			},
-			
-			{
-				"episode_num":4,
-				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
 			}
 		]
 	},
 		{
 		"name":"Mware News",
-		"info":"Mware News is a news aggregator and app developed by Mware. It presents a continuous, customizable flow of articles organized from thousands of publishers and magazines.",
+		"info":"Mware News is a news aggregator and app developed by Mware.",
 		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_news.jpg",
 		"starting_time":"20181130120000 +0200",
 		"stop_time":"20181130140000 +0200",
@@ -63,11 +48,6 @@
 			{
 				"episode_num":4,
 				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
 			}
 		]
 	},
@@ -102,23 +82,13 @@
 			{
 				"episode_num":5,
 				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
 			}
 		]
 	},
 	
 			{
 		"name":"Mware Radio",
-		"info":" Mware Radio is a segment of content intended for broadcast on radio. It may be a one-time production or part of a periodically recurring series. A single program in a series is called an episode",
+		"info":" Mware Radio is a segment of content intended for broadcast on radio. It may be a one-time production or part of a periodically recurring series.",
 		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_radio.jpg",
 		"starting_time":"20181130160000 +0200",
 		"stop_time":"20181130180000 +0200",
@@ -147,16 +117,6 @@
 			{
 				"episode_num":5,
 				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
 			}
 		]
 	},
@@ -187,32 +147,17 @@
 			{
 				"episode_num":4,
 				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
 			}
 		]
 	},
 	
 			{
 		"name":"Mware Travel",
-		"info":"Mware Travel for pleasure or business; also the theory and practice of touring, the business of attracting, accommodating, and entertaining tourists, and the business of operating tours. Tourism may be international, or within the traveller's country",
+		"info":"Mware Travel for pleasure or business; also the theory and practice of touring, the business of attracting, accommodating, and entertaining tourists, and the business of operating tours.",
 		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_tourist.jpg",
 		"starting_time":"",
 		"starting_time":"20181130200000 +0200",
-		"stop_time":"20181130220000 +0200",
+		"stop_time":"20181130235900 +0200",
 		"duration":"2h",
 		"publish_date":"2018/10/21",
 		"generes":["Life","Documentry","Intertainment","Family"],
@@ -233,65 +178,12 @@
 			{
 				"episode_num":4,
 				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
-			}
-		]
-	},{
-		"name":"Mware Kids",
-		"info":"Children love stories. It’s true!And every child enjoys it for different reasons – be it travelling to magical worlds, learning new concepts, going on adventures, etc.With stories, the possibilities are truly limitless — your child can join Tintin as he travels the world, solves mysteries and nabs crooks; your child can study at Hogwarts and learn about life through the magical world of Harry Potter; your child can go back in time and become an active participant at Akbar’s court.",
-		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_kids.jpg",
-		"starting_time":"20181130220000 +0200",
-		"stop_time":"201811300235900 +0200",
-		"duration":"2h",
-		"publish_date":"2018/10/21",
-		"generes":["Kids","Cartoon","+3","Adventure","Family"],
-		"play_list":[
-			{
-				"episode_num":1,
-				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
-			},
-			{
-				"episode_num":2,
-				"link":"https://html5demos.com/assets/dizzy.mp4"
-			},
-			{
-				"episode_num":3,
-				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
-			},
-			
-			{
-				"episode_num":4,
-				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
 			}
 		]
 	},
 		{
 		"name":"Mware News",
-		"info":"Mware News is a news aggregator and app developed by Mware. It presents a continuous, customizable flow of articles organized from thousands of publishers and magazines.",
+		"info":"Mware News is a news aggregator and app developed by Mware.",
 		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_news.jpg",
 		"starting_time":"20181130000000 +0200",
 		"stop_time":"20181130020000 +0200",
@@ -312,11 +204,6 @@
 			{
 				"episode_num":4,
 				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
 			}
 		]
 	},
@@ -351,23 +238,13 @@
 			{
 				"episode_num":5,
 				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
 			}
 		]
 	},
 	
 			{
 		"name":"Mware Radio",
-		"info":" Mware Radio is a segment of content intended for broadcast on radio. It may be a one-time production or part of a periodically recurring series. A single program in a series is called an episode",
+		"info":" Mware Radio is a segment of content intended for broadcast on radio. It may be a one-time production or part of a periodically recurring series.",
 		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_radio.jpg",
 		"starting_time":"20181130040000 +0200",
 		"stop_time":"20181130060000 +0200",
@@ -396,16 +273,6 @@
 			{
 				"episode_num":5,
 				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
 			}
 		]
 	},
@@ -415,52 +282,6 @@
 		"info":"Mware Life is a nonfictional motion picture intended to document some aspect of reality, primarily for the purposes of instruction, education, or maintaining a historical record. ",
 		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_life.jpg",
 		"starting_time":"20181130060000 +0200",
-		"stop_time":"20181130080000 +0200",
-		"duration":"2h",
-		"publish_date":"2018/10/21",
-		"generes":["Life","Documentry","Intertainment","Family"],
-		"play_list":[
-			{
-				"episode_num":1,
-				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
-			},
-			{
-				"episode_num":2,
-				"link":"https://html5demos.com/assets/dizzy.mp4"
-			},
-			{
-				"episode_num":3,
-				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
-			},
-			
-			{
-				"episode_num":4,
-				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
-			}
-		]
-	},
-	
-			{
-		"name":"Mware Travel",
-		"info":"Mware Travel for pleasure or business; also the theory and practice of touring, the business of attracting, accommodating, and entertaining tourists, and the business of operating tours. Tourism may be international, or within the traveller's country",
-		"icon":"https://raw.githubusercontent.com/Mohamedismail77/play-list/master/img/mware_tourist.jpg",
-		"starting_time":"",
-		"starting_time":"20181130080000 +0200",
 		"stop_time":"20181130100000 +0200",
 		"duration":"2h",
 		"publish_date":"2018/10/21",
@@ -482,21 +303,6 @@
 			{
 				"episode_num":4,
 				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
-			},
-			
-			{
-				"episode_num":5,
-				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
-			},
-			
-			{
-				"episode_num":6,
-				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
-			},
-			
-			{
-				"episode_num":7,
-				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
 			}
 		]
 	}
