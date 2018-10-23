@@ -2,8 +2,9 @@
 "programs":[
 
 	{
-		"name":"",
+		"name":"Mware Kids",
 		"info":"",
+		"icon":"",
 		"starting_time":"",
 		"stop_time":"",
 		"duration":"",
@@ -12,14 +13,38 @@
 		"generes":["","","",""],
 		"play_list":[
 			{
-				"episode_num":0,
-				"link":""
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
 			}
 		]
 	},
 		{
-		"name":"",
+		"name":"Mware News",
 		"info":"",
+		"icon":"",
 		"starting_time":"",
 		"stop_time":"",
 		"duration":"",
@@ -28,14 +53,30 @@
 		"generes":["","","",""],
 		"play_list":[
 			{
-				"episode_num":0,
-				"link":""
+				"episode_num":2,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":3,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
 			}
 		]
 	},
 		{
-		"name":"",
+		"name":"Mware Show",
 		"info":"",
+		"icon":"",
 		"starting_time":"",
 		"stop_time":"",
 		"duration":"",
@@ -44,8 +85,450 @@
 		"generes":["","","",""],
 		"play_list":[
 			{
-				"episode_num":0,
-				"link":""
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"Mware Radio",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"Mware Life",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"Mware Travel",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
+			}
+		]
+	},
+	
+			{
+		"name":"",
+		"info":"",
+		"icon":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":1,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4"
+			},
+			{
+				"episode_num":2,
+				"link":"https://html5demos.com/assets/dizzy.mp4"
+			},
+			{
+				"episode_num":3,
+				"link":"https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4"
+			},
+			
+			{
+				"episode_num":4,
+				"link":"http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8"
+			},
+			
+			{
+				"episode_num":5,
+				"link":"http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8"
+			},
+			
+			{
+				"episode_num":6,
+				"link":"http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8"
+			},
+			
+			{
+				"episode_num":7,
+				"link":"http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8"
 			}
 		]
 	}
