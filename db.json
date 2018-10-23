@@ -1,13 +1,23 @@
 {
-"play-list":[
-  "https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-137.mp4",
-  "https://html5demos.com/assets/dizzy.mp4",
-  "https://storage.googleapis.com/exoplayer-test-media-1/360/congo.mp4",
-  "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
-  "http://playertest.longtailvideo.com/adaptive/captions/playlist.m3u8",
-  "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8",
-  "http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8",
-  "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
-  "https://github.com/Mohamedismail77/play-list/blob/master/img/thumb.png?raw=true"
-]
+"programs":[
+
+	{
+		"name":"",
+		"info":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":,
+				"link":""
+			}
+		]
+	}
+
+
+	]
 }
