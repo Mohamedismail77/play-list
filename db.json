@@ -16,6 +16,22 @@
 				"link":""
 			}
 		]
+	},
+		{
+		"name":"",
+		"info":"",
+		"starting_time":"",
+		"stop_time":"",
+		"duration":"",
+		"publish_date":"",
+		"program_information":"",
+		"generes":["","","",""],
+		"play_list":[
+			{
+				"episode_num":0,
+				"link":""
+			}
+		]
 	}
 	]
 }
